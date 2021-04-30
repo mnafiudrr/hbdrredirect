@@ -31,6 +31,6 @@ class IndexController extends Controller
             'keterangan' => $keterangan,
         ]);
 
-        return redirect()->away('https://selamat.ulang.tahun.ratrika.site/ini-cuma-hadiah-yang-biasa-banget-ya-ratt-hmmmmmmm');
+        return redirect()->away('https://selamat.ulang.tahun.ratrika.site/kalo-hadiahnya-kek-gini-gimana-ratt');
     }
 }
